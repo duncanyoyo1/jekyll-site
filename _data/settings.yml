@@ -1,10 +1,10 @@
-title: 'Jekyll Starter Kit'
-tagline: 'A simple framework for starting your own Jekyll project'
+title: 'Lesshead.works'
+tagline: 'Extensability is only as good as your ability'
 
 author:
-  name: 'Paul Le'
+  name: 'Keenan'
 
-google-ID: 'UA-112060364-4'
+google-ID: ''
 
 menu:
 # Uncomment to activate the menu looping function in the header.html file under _includes
