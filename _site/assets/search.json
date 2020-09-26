@@ -22,6 +22,13 @@
     } ,
   
     {
+      "title"    : "Cubanamella",
+      "tags"     : "",
+      "url"      : "/Cubanamella/",
+      "date"     : "2020-09-25 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "Colophon",
       "tags"     : "",
       "url"      : "/about/",
