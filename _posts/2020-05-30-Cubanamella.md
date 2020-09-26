@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Cubanamella"
+excerpt: Cubanamella Recipe, a thick dark sweet dessert tobacco. 
+permalink: /cubanamella/
 comments: true
 ---
+
 **[Cubanamella ](https://e-liquid-recipes.com/recipe/3567509/Cubanamella)**
 
 Ingredient|%
