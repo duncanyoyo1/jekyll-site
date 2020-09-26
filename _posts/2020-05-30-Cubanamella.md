@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Cubanamella"
 ---
 **[Cubanamella ](https://e-liquid-recipes.com/recipe/3567509/Cubanamella)**
