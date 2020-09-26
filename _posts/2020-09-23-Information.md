@@ -9,4 +9,4 @@ comments: false
 
 ## Please bear with us as we implement more of the site.
 
-Orphic, Ent.
+> Orphic, Ent.
