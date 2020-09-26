@@ -8,17 +8,17 @@
     } ,
   
     {
-      "title"    : "Info",
-      "tags"     : "",
-      "url"      : "/Information/",
-      "date"     : "2020-09-25 00:00:00 -0400"
-    } ,
-  
-    {
       "title"    : "Cubanamella",
       "tags"     : "",
       "url"      : "/Cubanamella/",
-      "date"     : "2020-09-25 00:00:00 -0400"
+      "date"     : "2020-09-24 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Information",
+      "tags"     : "",
+      "url"      : "/about/",
+      "date"     : "2020-09-23 00:00:00 -0400"
     } ,
   
     {
