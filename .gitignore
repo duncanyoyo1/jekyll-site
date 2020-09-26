@@ -1,4 +1,7 @@
-.sass-cache
-.DS_Store
+_site/
+.sass-cache/
 .jekyll-cache/
-workspace.code-workspace
+.jekyll-metadata
+_drafts
+klise-*.gem
+Gemfile.lock
