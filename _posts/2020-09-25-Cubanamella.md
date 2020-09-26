@@ -16,7 +16,7 @@ Flavor total: 8.5%
 
 Remember to rate it at [e-liquid-recipes.com!](https://e-liquid-recipes.com/recipe/3567509/Cubanamella)
 
-![Cubanamella](assets/img/cubanamella.jpg)
+![Cubanamella](/assets/img/cubanamella.jpg)
 
 This is my twist on Cubanamel by The Fog Vlog.
 I liked the original but I wanted more caramel/vanilla out of it when I was vaping on my Kayfun. So I upped them all by 0.5%
