@@ -7,6 +7,6 @@ comments: false
 
 # Coming Soon
 
-## Please bear with us as we implement more of the site.
+ Please bear with us as we implement more of the site.
 
 > Orphic, Ent.
