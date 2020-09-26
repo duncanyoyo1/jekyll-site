@@ -19,6 +19,7 @@ Remember to rate it at [e-liquid-recipes.com!](https://e-liquid-recipes.com/reci
 ![Cubanamella](/assets/img/cubanamella.jpg)
 
 This is my twist on [Cubanamel by TheFogVLOG](https://alltheflavors.com/recipes/126323#cubanamel_by_thefogvlog).
+
 I liked the original but I wanted more caramel/vanilla out of it when I was vaping on my Kayfun. So I upped them all by 0.5%
 
 Now it's a thick dark sweet dessert tobacco. 
