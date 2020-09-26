@@ -1,6 +1,6 @@
 ---
 title: Information
-layout: page
+layout: post
 excerpt: More content soon
 comments: false
 ---
