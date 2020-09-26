@@ -30,6 +30,6 @@ You can use the original TPA Bavarian Cream or the DX. I've tried both and I act
 You should add sweetener to preference.
 The original has 0.15% Cap SS, I normally use 0.5% FW Sweetener myself in MTL mixes I want to be very sweet.
 
-![Cubanamel by TheFogVLOG](https://alltheflavors.com/recipes/126323#cubanamel_by_thefogvlog)
+[Cubanamel by TheFogVLOG](https://alltheflavors.com/recipes/126323#cubanamel_by_thefogvlog)
 
 Tested out of a Kayfun Lite 2019, 26g SS316L 3mm ID 8 wraps, TC at 215°C 18.5w
